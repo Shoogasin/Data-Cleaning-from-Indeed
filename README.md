@@ -1,6 +1,6 @@
 Data cleaning is a crucial step in the data analysis process, ensuring reliable insights and accurate conclusions.
 
-Dataset Overview
+Dataset Overview:
 Source: Real-world job listings from indeed.com
 Format: CSV (Comma Separated Values)
 Columns: Title, Company, Location, Salary, Job Type, Date Posted, Summary
@@ -14,5 +14,5 @@ Replace Inconsistent Values in Job Type: Standardize values for smoother analysi
 Parse Date Posted: Convert the Date Posted column to a proper date format.
 Standardize Summary Column: Remove special characters and non-letter characters from the Summary column.
 
-Conclusion
+Conclusion:
 With our dataset now clean and polished, we're ready to move on to exploratory data analysis in the next project.
